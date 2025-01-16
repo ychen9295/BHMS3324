@@ -1,5 +1,5 @@
-# BHMS3323 – Principles and Practices of FinTech
-## Semester 2, 2022/23
+# BHMS3324 – Principles and Practices of FinTech
+## Semester 1, 2024/25
 
 ### Subject Leader
 Dr Raymond Kwong (Office: Room S1428, email: raymond.kwong@cpce-polyu.edu.hk)
